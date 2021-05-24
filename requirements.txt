@@ -1,0 +1,7 @@
+Flask
+celery==4.4.7
+redis==3.5.3
+flower
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-CeleryExt
